@@ -12,21 +12,14 @@
 
 - 2022/12/22 ~ 2023/01/06
 
-# 참여 개발자
+# 실습 환경
 
 ---
 
-## Front-End Developers
-
-| 김학진 (FE) | 허재원 (FE) |
-| --- | --- | --- |
-| [metamro](https://github.com/metamro)| [hurjwon](https://github.com/hurjwon)| 
-
-## Back-End Developers
-
-| 윤은애 (BE) | 정재헌 (BE) |
-| --- | --- | --- |
-| [YAE00](https://github.com/YEA00)| [JasonJeongjaeheon](https://github.com/JasonJeongjaeheon)|
+Javascript
+Node.js
+Express.js
+TypeORM
 
 ## Project Archive
 
